@@ -1,0 +1,4 @@
+This is a test file created during MCP tool exploration.
+
+Purpose: Verify create_or_update_file tool functionality.
+Timestamp: Exploration session
